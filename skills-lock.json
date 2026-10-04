@@ -193,6 +193,12 @@
       "skillPath": "skills/brutalist-skill/SKILL.md",
       "computedHash": "8fc355c4aadb7d29c53ca28bc41be3cd6eea765d121e3737c4dc2d0f90a8effa"
     },
+    "llm-council": {
+      "source": "aiwithremy/claude-skills-llm-council",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "b6b68e15b1622ea5dc7760e6a3c723c62c8140103fde3052c096f7d8fc675a44"
+    },
     "minimalist-ui": {
       "source": "Leonxlnx/taste-skill",
       "sourceType": "github",
